@@ -4,11 +4,9 @@
 <strong>About me:</strong>
 
 - 🔭 I’m currently working on being a better version of myself
-- 🌱 I’m currently learning Python, Haskell and Elixir
-- 🤔 I’m looking for learning something new everyday!
-- 💬 Ask me about Anime and Video Games
+- 🌱 I’m currently learning SecOps as a hobby!
+- 💬 Ask me about anything, really!
 - 📫 How to reach me: [Twitter](https://twitter.com/GabrielSainy)
-- 😄 Pronouns: He/Him
 - 🎓 Currently studying Computer Science at [UFPA](https://www.computacao.ufpa.br)
 
 <h3> I've been working with:</h3>
